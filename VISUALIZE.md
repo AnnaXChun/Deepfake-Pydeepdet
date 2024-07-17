@@ -24,7 +24,7 @@ Before running the code, you need prepare
 
 ### Run
 
-Examples: `python visualization/gradcam.py --model Xception --pth Xception.pth --layer res4 --img demo.jpg --save_path save.jpg`   
+Examples: `python visualization/gradcam.py --model Xception --pth Xception.pyth --layer conv1 --img demo.jpg --save_path save.jpg`   
 
 args:
 
