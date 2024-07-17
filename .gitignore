@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/
+.idea
+# Python cache
+__pycache__
+PyDeepFakeDet.egg-info
+
+# Mac OS
+.DS_Store
+
+# Checkpoints
+CKPT
+checkpoints
+ResNet50_CelebDF.pyth
+Xception_CelebDF.pyth
+# Logs
+runs
+logs/
+data/
